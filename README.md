@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/ced9a8c6fdc372593c625e2548bc50584b8d11dafd9b8935b59bc335c7d6190e/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f373136373537302e706e67)
 
 <h1 align="center">Hi 👋, I'm Bapan Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
