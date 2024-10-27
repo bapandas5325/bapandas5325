@@ -70,11 +70,6 @@
         </a>
     </span>
     <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-        </a>
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
         <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
         </a>
@@ -95,6 +90,7 @@
         </a>
     </span>
 </p>
+
 
 
 
