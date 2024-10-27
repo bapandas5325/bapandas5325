@@ -20,62 +20,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## Languages and Tools
-## Languages and Tools
-<p align="left">
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-        HTML5
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-        CSS3
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        JavaScript
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-        React
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
-        SQL
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-        MongoDB
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-        Node.js
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-        Laravel
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
-        VS Code
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-        GitHub
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-        Git
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/apache_friends/apache_friends-icon.svg" alt="XAMPP" width="40" height="40"/>
-        XAMPP
-    </span>
-    <span style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-        Postman
-    </span>
-</p>
 
 
 
