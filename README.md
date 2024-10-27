@@ -90,22 +90,7 @@
         </a>
     </span>
 </p>
-### Languages and Tools:
 
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
-[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/)
-[![WordPress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg)](https://wordpress.org/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)](https://github.com/)
-[![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg)](https://code.visualstudio.com/)
 
 
 
