@@ -7,11 +7,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JAVA,HTML,CSS,**
 
 - 📫 How to reach me **bapandasg5325@gmail.com**
-
-- ⚡ Fun fact **I think i am little funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
