@@ -37,18 +37,30 @@
         React
     </span>
     <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-        Laravel
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+        Node.js
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+        MongoDB
     </span>
     <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
         MySQL
     </span>
     <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-        MongoDB
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        Python
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        Java
     </span>
     <span style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://www.vectorlogo.zone/logos/ibm_db2/ibm_db2-icon.svg" alt="DBMS" width="40" height="40"/>
+        DBMS
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
         VS Code
     </span>
