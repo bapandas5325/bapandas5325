@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bapandas5325&show_icons=true&locale=en" alt="bapandas5325" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bapandas5325&" alt="bapandas5325" /></p>
+
+<h3 align="left">Connect with me:</h3>
