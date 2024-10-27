@@ -23,19 +23,45 @@
 ## Languages and Tools
 ## Languages and Tools
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_friends/apache_friends-icon.svg" alt="XAMPP" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 5px;"/> HTML5
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 5px;"/> CSS3
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 5px;"/> JavaScript
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 5px;"/> React
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" style="margin-right: 5px;"/> SQL
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 5px;"/> MongoDB
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 5px;"/> Node.js
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin-right: 5px;"/> Laravel
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" style="margin-right: 5px;"/> VS Code
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 5px;"/> GitHub
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 5px;"/> Git
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://www.vectorlogo.zone/logos/apache_friends/apache_friends-icon.svg" alt="XAMPP" width="40" height="40" style="margin-right: 5px;"/> XAMPP
+    </span>
+    <span style="display: flex; align-items: center;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right: 5px;"/> Postman
+    </span>
 </p>
 
 
