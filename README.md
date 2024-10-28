@@ -40,42 +40,16 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)&nbsp;
 
-
-
-
-
-
 ### ⚙️ &nbsp; GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/bapandas5325">
   <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bapandas5325&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bapandas5325&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bapandas5325&theme=algolia" alt="bapandas5325" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bapandas5325&show_icons=true&locale=en&layout=compact" alt="bapandas5325" /></p>
-
-<p>nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bapandas5325&show_icons=true&locale=en" alt="bapandas5325" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bapandas5325&" alt="bapandas5325" /></p>
 
 
