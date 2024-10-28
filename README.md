@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bapanda11207627" target="blank"><img src="https://img.shields.io/twitter/follow/bapanda11207627?logo=twitter&style=for-the-badge" alt="bapanda11207627" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+
 
 
 - 📫 How to reach me **bapandasg5325@gmail.com**
