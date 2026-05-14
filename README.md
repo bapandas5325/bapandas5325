@@ -19,8 +19,43 @@
 Full Stack Developer focused on backend systems, scalable web applications, automation, and cybersecurity. Interested in building practical tools, developer-focused platforms, and open-source projects.
 
 📌 Building scalable systems, automation tools, and real-world projects.
+<p align="center">
 
----
+<p align="center">
+
+🤝 Let's Connect :-
+
+<table width="100%" cellspacing="0" cellpadding="20">
+<tr>
+
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/bapandas89/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="mailto:bapandasg5325@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://leetcode.com/u/bapandas5325/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/00bfff" width="50"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</p>
 
 ## 🛠️ Tech Stack
 
