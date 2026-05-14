@@ -144,7 +144,7 @@ Frontend: React, Tailwind
 Backend: Node.js, Express  
 Database: MongoDB  
 
-🔗 Repository: https://github.com/YOUR_USERNAME/news-monitoring  
+🔗 Repository: Private / Pinned Repo  
 
 </td>
 
@@ -158,7 +158,7 @@ Frontend: React, HTML, CSS
 Backend: Node.js  
 Database: MongoDB  
 
-🔗 Repository: https://github.com/YOUR_USERNAME/resume-builder  
+🔗 Repository: Available on GitHub
 
 </td>
 
@@ -176,7 +176,7 @@ Frontend: React, Tailwind
 Backend: Express, Node.js  
 Database: MongoDB  
 
-🔗 Repository: https://github.com/YOUR_USERNAME/job-portal  
+🔗 Repository: Available on GitHub
 
 </td>
 
@@ -190,7 +190,7 @@ Frontend: React
 Backend: Python, Flask  
 Database: MySQL  
 
-🔗 Repository: https://github.com/YOUR_USERNAME/ai-tools  
+🔗 Repository: Available on GitHub  
 
 </td>
 
@@ -199,7 +199,7 @@ Database: MySQL
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Interest In
 
 <table width="100%">
 <tr>
