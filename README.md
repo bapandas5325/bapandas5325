@@ -1,6 +1,3 @@
-## 📊 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=bapandas5325&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <p align="center">
@@ -19,7 +16,9 @@
 
 ---
 
-## 👋 Intro
+# 👋 Intro  ![Visitor Count](https://komarev.com/ghpvc/?username=bapandas5325&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 
 Full Stack Developer focused on backend systems, scalable web applications, automation, and cybersecurity. Interested in building practical tools, developer-focused platforms, and open-source projects.
 
