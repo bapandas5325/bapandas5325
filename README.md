@@ -257,13 +257,11 @@ Database: MySQL
 
 <div align="center">
 
-<sub><b>"First, solve the problem. Then, write the code."</b></sub>
+<h3>"First, solve the problem. Then, write the code."</h3>
 
-
-
-<sub>
-Every bug is a lesson. Every project is progress.  
+<h4>
+Every bug is a lesson. Every project is progress.<br>
 Keep building, even when it’s hard.
-</sub>
+</h4>
 
 </div>
