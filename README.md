@@ -1,3 +1,8 @@
+## 📊 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bapandas5325&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 <p align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=bapandas5325&style=flat-square&color=00bfff" /> -->
 </p>
