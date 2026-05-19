@@ -10,9 +10,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FF4C4C&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+systems+through+code" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF9F&center=true&vCenter=true&width=650&lines=Consistently+learning+experimenting+and+shipping+projects" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF9F&center=true&vCenter=true&width=650&lines=Consistently+learning+experimenting+and+shipping+projects" />
 
-</p>
+</p> -->
 
 ---
 
