@@ -20,7 +20,6 @@
 
 
 
-Full Stack Developer focused on backend systems, scalable web applications, automation, and cybersecurity. Interested in building practical tools, developer-focused platforms, and open-source projects.
 
 📌 Building scalable systems, automation tools, and real-world projects.
 <p align="center">
